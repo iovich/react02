@@ -1,0 +1,16 @@
+Теория:
+https://uk.legacy.reactjs.org/docs/hello-world.html
+https://uk.legacy.reactjs.org/docs/introducing-jsx.html
+https://uk.legacy.reactjs.org/docs/rendering-elements.html
+https://uk.legacy.reactjs.org/docs/components-and-props.html
+https://uk.legacy.reactjs.org/docs/state-and-lifecycle.html
+https://uk.legacy.reactjs.org/docs/handling-events.html
+https://uk.legacy.reactjs.org/docs/conditional-rendering.html
+https://uk.legacy.reactjs.org/docs/lists-and-keys.html
+  
+Есть кнопка. У неё один из двух
+цветов: красный или зеленый.
+По умолчанию она красная. По нажатию
+меняет свой цвет на другой.
+
+Не выгружать папку node_modules!
